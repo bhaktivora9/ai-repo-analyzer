@@ -1,1 +1,1 @@
-# ai-repo-analyzer-
+# ai-repo-analyzer
